@@ -8,6 +8,7 @@ import {
   TextInput,
   ToastAndroid,
 } from 'react-native';
+// import Icon from 'react-native-elements';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import {Button} from 'react-native-elements';
 import {useStateValue} from '../stateProvider';
