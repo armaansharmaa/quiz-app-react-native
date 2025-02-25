@@ -43,3 +43,5 @@ Well, this project is one of my side projects. If anyone interested in making it
 ## Anything more?
 
 If you liked my work, consider staring the repository and spread the word. ⭐️
+
+This project is tested with BrowserStack.
